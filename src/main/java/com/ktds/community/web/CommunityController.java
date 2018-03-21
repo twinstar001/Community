@@ -29,7 +29,7 @@ import com.ktds.util.DownloadUtil;
 /**
  * 어쩌고저쩌고 블라블
  * @author TaekyoungKim
- * 뭐지뭐뭐지ㅣㅁ임임임임dldlaldaldad
+ * 뭐지뭐뭐지ㅣㅁ임임임임dldlaldaldadasdfasfasfasf
  */
 @Controller
 public class CommunityController {
