@@ -27,7 +27,7 @@ import com.ktds.util.DownloadUtil;
  
 
 /**
- * 어쩌고저쩌고 
+ * 어쩌고저쩌고 블라블
  * @author TaekyoungKim
  *
  */
